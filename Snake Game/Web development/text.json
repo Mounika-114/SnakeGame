@@ -1,0 +1,11 @@
+{
+    "name":"Mouni",
+    "age":19,
+    "isMale":true,
+    "Bank":null,
+    "languages":["Javascript","Python","HTML"],
+    "myObj":{
+        "subject":"Operating Systems",
+        "marks":84
+    }
+}
